@@ -1,2 +1,2 @@
 # CrowdFunding
-CrowdFunding Web 3.0 App
+Build and Deploy a Web3 Crowdfunding Platform (Kickstarter) As Your First Blockchain Application
