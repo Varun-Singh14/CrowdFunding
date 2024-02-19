@@ -1,6 +1,6 @@
-# Crowdfunding: A Web3 Crowdfunding Platform
+# Crowdfunding: A Web3.0 Crowdfunding Platform
 
-Crowdfunding is a decentralized crowdfunding platform built on Web3 technology, making it my first blockchain application. It enables users to create and contribute to crowdfunding campaigns using cryptocurrencies and smart contracts.
+Crowdfunding is a decentralized crowdfunding platform built on Web3.0 technology, making it my first blockchain application. It enables users to create and contribute to crowdfunding campaigns using cryptocurrencies and smart contracts.
 ![CrowdFunding app](https://user-images.githubusercontent.com/74977195/210487423-c360db25-923a-419e-bc2c-8f5e66f1f14c.png)
 
 ## Features
